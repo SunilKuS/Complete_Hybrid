@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134384" started-at="2019-04-01T14:33:03Z" finished-at="2019-04-01T14:35:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134384" started-at="2019-04-01T14:33:03Z" finished-at="2019-04-01T14:35:18Z">
+      <class name="com.xforce.testscripts.WithDrawTest">
+        <test-method status="PASS" signature="browserInt(java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="browserInt" is-config="true" duration-ms="10198" started-at="2019-04-01T14:33:52Z" finished-at="2019-04-01T14:34:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInt -->
+        <test-method status="PASS" signature="withDrawEleTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="withDrawEleTest" duration-ms="18773" started-at="2019-04-01T14:34:02Z" data-provider="withdrawAc" finished-at="2019-04-01T14:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[777]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withDrawEleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="tearDown" is-config="true" duration-ms="798" started-at="2019-04-01T14:34:21Z" finished-at="2019-04-01T14:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserInt(java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="browserInt" is-config="true" duration-ms="10325" started-at="2019-04-01T14:34:22Z" finished-at="2019-04-01T14:34:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInt -->
+        <test-method status="PASS" signature="withDrawEleTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="withDrawEleTest" duration-ms="15731" started-at="2019-04-01T14:34:32Z" data-provider="withdrawAc" finished-at="2019-04-01T14:34:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[salary]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withDrawEleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="tearDown" is-config="true" duration-ms="914" started-at="2019-04-01T14:34:48Z" finished-at="2019-04-01T14:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserInt(java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="browserInt" is-config="true" duration-ms="10378" started-at="2019-04-01T14:34:49Z" finished-at="2019-04-01T14:34:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInt -->
+        <test-method status="PASS" signature="withDrawEleTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="withDrawEleTest" duration-ms="17974" started-at="2019-04-01T14:34:59Z" data-provider="withdrawAc" finished-at="2019-04-01T14:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[70000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withDrawEleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xforce.testscripts.WithDrawTest@52af6cff]" name="tearDown" is-config="true" duration-ms="764" started-at="2019-04-01T14:35:17Z" finished-at="2019-04-01T14:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xforce.testscripts.WithDrawTest -->
+      <class name="com.xforce.testscripts.LoginTest">
+        <test-method status="PASS" signature="browserInt(java.lang.String)[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="browserInt" is-config="true" duration-ms="24750" started-at="2019-04-01T14:33:04Z" finished-at="2019-04-01T14:33:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInt -->
+        <test-method status="PASS" signature="loginTestOp()[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="loginTestOp" duration-ms="5199" started-at="2019-04-01T14:33:28Z" finished-at="2019-04-01T14:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestOp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="tearDown" is-config="true" duration-ms="663" started-at="2019-04-01T14:33:34Z" finished-at="2019-04-01T14:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserInt(java.lang.String)[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="browserInt" is-config="true" duration-ms="11596" started-at="2019-04-01T14:33:34Z" finished-at="2019-04-01T14:33:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInt -->
+        <test-method status="PASS" signature="resetButtonTest()[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="resetButtonTest" duration-ms="4058" started-at="2019-04-01T14:33:46Z" finished-at="2019-04-01T14:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xforce.testscripts.LoginTest@531be3c5]" name="tearDown" is-config="true" duration-ms="916" started-at="2019-04-01T14:33:50Z" finished-at="2019-04-01T14:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xforce.testscripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

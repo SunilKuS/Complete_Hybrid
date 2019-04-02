@@ -1,0 +1,5 @@
+com\xforce\testscripts\LoginTest.class
+com\xforce\testscripts\WithDrawTest.class
+com\xforce\page_objects\LoginPageObj.class
+com\xforce\page_objects\WithDrawPageObj.class
+com\xforce\testscripts\SimpleDemo.class
